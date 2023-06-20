@@ -1,0 +1,24 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "description": "Poker planning for scrum teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpd1208/poker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpd1208/poker/issues"
+  },
+  "homepage": "https://github.com/dpd1208/poker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2",
+    "socket.io-client": "^4.6.2"
+  }
+}
